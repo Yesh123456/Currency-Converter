@@ -1,3 +1,3 @@
 # Currency-Converter
 
-https://github.com/Yesh123456/Currency-Converter.git
+ https://yesh123456.github.io/Currency-Converter/.
